@@ -9,7 +9,7 @@ Here is my brief tech stack
 📖 Currently I continue learning to develop the databases and data management systems with SQLite and SQLAlchemy ORM 
 🛰️ I developed and managed a workplace data management system with SQLAlchemy by expanding my object oriented programming practical knowledge by incorporating analytical and critical thinking skills 
 🔭 Recently I started to creata space shooter prototype with PyGame by improving my creativity skills  
-🚀 And with my current tech stack I'm looking for any junior developer role based on my knowledge and tech stack that will help me to grow as a skilled IT specialist.
+🚀 And currently I'm looking for any junior developer role based on my knowledge and tech stack that will help me to grow as a skilled IT specialist.
 
 
 
