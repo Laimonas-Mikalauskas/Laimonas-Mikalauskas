@@ -1,4 +1,4 @@
-Hello 👋 I am Junior Python Developer with strong Python and SQL technical background. I specialise in database development and management with SQL and SQLAlchemy. Also I create lightweight web apps with Flask and develop simple 2D games with PyGame.
+Hello 👋 I am Junior Python Developer with strong Python and SQL technical background. I specialise in database development and management with SQL and SQLAlchemy. Also I create lightweight web apps with Flask and develop interactive 2D games with PyGame.
 
 Here is my brief tech stack
 
