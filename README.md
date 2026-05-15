@@ -6,11 +6,11 @@ Here is my brief tech stack
 ⚙️ Web development: HTML & CSS, Flask
 🎮 Game development: PyGame
 
-📖 Currently I continue learning to develop the databases and data management systems with SQLite and SQLAlchemy ORM 
-🛰️ I developed and managed a workplace data management system with SQLAlchemy by expanding my object oriented programming practical knowledge by incorporating analytical and critical thinking skills 
-🔭 Recently I started to creata space shooter prototype with PyGame by improving my creativity skills  
+📖 Currently I continue learning to develop scalable back-end systems with SQLAlchemy ORM and Flask and interactive 2D games with PyGame. 
+🛰️ I developed and managed a workplace data management and task tracking system with SQLAlchemy and Flask by practically applying core object oriented programming fundamentals such as classes, attributes and methods in scalable backend systems development to ensure structured and maintainable code. 
+🔭 Recently I started to creata space shooter prototype with PyGame by implementing OOP fundamentals, event-driven-programming game loop architecture to improve my creativity skills  
 
-🚀 And currently I'm looking for any junior developer role based on my knowledge and tech stack that will help me to grow as a skilled IT specialist.
+🚀 And currently I'm looking for any junior Python Developer role based on my knowledge and tech stack that will help me to grow as a skilled IT specialist.
 
 
 
