@@ -1,16 +1,20 @@
-Hello 👋 I am Junior Python Developer with strong Python and SQL technical background. I specialise in database development and management with SQL and SQLAlchemy. Also I create lightweight web apps with Flask and develop interactive 2D games with PyGame.
+Hello 👋 I am Junior Python Developer with strong Python and SQL technical background. I specialise in database development and management with SQLAlchemy. Also I create lightweight web apps with Flask and develop interactive 2D games with PyGame. Recently I started to expamd asynchronous programming knowledge by developing high performance web applications with FastAPI
+
 
 Here is my brief tech stack
 
 🗄️ Databases: SQLite, SQLAlchemy ORM
 ⚙️ Web development: HTML & CSS, Flask
 🎮 Game development: PyGame
+High performance app development: FastAPI
 
-📖 Currently I continue learning to develop scalable back-end systems with SQLAlchemy ORM, Flask, Werkzeug and create interactive 2D games with PyGame. 
+📖 Currently I continue learning to develop scalable back-end systems with SQLAlchemy ORM, Flask, FastAPI, Werkzeug and create interactive 2D games with PyGame. 
 🛰️ I developed and managed a workplace data management and task tracking system with SQLAlchemy and Flask by practically applying core object oriented programming fundamentals such as classes, attributes and methods in scalable backend systems development to ensure structured and maintainable code. 
-🔭 Recently I started to creata space shooter prototype with PyGame by implementing OOP fundamentals, event-driven-programming and game loop architecture to ensure smooth application runtime.  
+🔭 Moreover I created space shooter prototype with PyGame by implementing OOP fundamentals, event-driven-programming and game loop architecture to ensure smooth application runtime. 
+Currently I develop a high-performance order management and shipment tracking web app with FastAPI by reinforcing my current technical backend development background.
 
-🚀 And currently I'm looking for any junior Python Developer, junior Software Developer and junior Database Developer role based on my knowledge and tech stack that will help me to grow as a skilled IT specialist.
+
+🚀 And currently I'm looking for any junior Python Developer, junior Python Back-end Developer, junior Software Developer and junior Database Developer role based on my knowledge and tech stack that will help me to grow as a skilled IT specialist.
 
 
 
