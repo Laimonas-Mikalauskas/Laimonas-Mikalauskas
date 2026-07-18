@@ -1,4 +1,4 @@
-Hello 👋 I am Junior Python Developer with strong Python and SQL technical background. I specialise in database development and management with SQLAlchemy, lightweight web app and interactive 2D game development with Flask and PyGame. Recently I started to expamd asynchronous programming knowledge by developing high performance web applications with FastAPI. 
+Hello 👋 I am Junior Python Developer with strong Python and SQL technical background. I specialise in database development and management with SQLAlchemy, lightweight web app and interactive 2D game development with Flask and PyGame. Recently I started to expand asynchronous programming knowledge by developing high performance web applications with FastAPI. 
 
 
 
