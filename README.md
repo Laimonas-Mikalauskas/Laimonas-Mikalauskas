@@ -7,7 +7,7 @@ Here is my brief tech stack
 🎮 Game development: PyGame
 🗄️ ⚙️ High performance database-integrated web app development: FastAPI, SQLAlchemy ORM
 
-📖 Currently I continue learning to develop high performance back-end systems with SQLAlchemy ORM, FastAPI, Werkzeug and create interactive 2D games with PyGame. 
+📖 Currently I continue learning to develop high performance back-end systems with SQLAlchemy ORM, FastAPI, Passlib, bcrypt, cryptography.Fernet and create interactive 2D games with PyGame. 
 🛰️ I developed and managed a workplace data management and task tracking system with SQLAlchemy and Flask by practically applying core object oriented programming fundamentals such as classes, attributes and methods in scalable backend systems development to ensure structured and maintainable code. 
 🔭 Moreover I created space shooter prototype with PyGame by implementing OOP fundamentals, event-driven-programming and game loop architecture to ensure smooth application runtime. 
 👨‍💻 Currently I develop a high-performance, database-integrated order management and shipment tracking web app with FastAPI by reinforcing my current technical backend development background.
