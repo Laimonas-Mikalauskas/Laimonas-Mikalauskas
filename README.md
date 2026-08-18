@@ -12,7 +12,7 @@ cryptography.Fernet - authenticated symmetric encryption
 📖 Currently I continue learning to develop high performance back-end systems with SQLAlchemy ORM, FastAPI, Passlib, bcrypt, cryptography.Fernet and create interactive 2D games with PyGame. 
 🛰️ I developed and managed a workplace data management and task tracking system with SQLAlchemy and Flask by practically applying core object oriented programming fundamentals such as classes, attributes and methods in scalable backend systems development to ensure structured and maintainable code. 
 🔭 Moreover I created space shooter prototype with PyGame by implementing OOP fundamentals, event-driven-programming and game loop architecture to ensure smooth application runtime. 
-👨‍💻 Currently I develop a high-performance, database-integrated order management and shipment tracking web app with FastAPI by reinforcing my current technical backend development background.
+👨‍💻 Currently I develop a high-performance, database-integrated online shopping app with FastAPI, item stock data management system with SQLAlchemy ORM, secure user login form with Passlib, bcrypt, sensitive bank card information encryption with cryptography.Fernet to expand asynchronous programming, secure login credentials management and authenticated symmetric encryption knowledge in modern backend development.
 
 
 🚀 And currently I'm looking for any junior Python Developer, junior Python Back-end Developer, junior Software Developer and junior Database Developer role based on my knowledge and tech stack that will help me to grow as a skilled IT specialist.
