@@ -1,4 +1,4 @@
-Hello 👋 I am Junior Python Developer with strong Python and SQL technical background. I specialise in database development and management with SQLAlchemy ORM, lightweight web app development with Flask and interactive 2D game development with PyGame. Recently I started to expand asynchronous programming knowledge by developing high performance web applications with FastAPI. 
+Hello 👋 I am Junior Python Developer with strong Python and SQL technical background. I specialise in database development data management and security, lightweight web app development and interactive 2D game development. Recently I started to expand asynchronous programming and authenticated symmetric encryption knowledge to deliver scalable and secure modern backend solutions.
 
 Here is my brief tech stack
 
@@ -6,10 +6,10 @@ Here is my brief tech stack
 ⚙️ Lightweight web app development: HTML & CSS, Flask
 🎮 Game development: PyGame
 🗄️ ⚙️ High performance database-integrated web app development: FastAPI, SQLAlchemy ORM
-🔐 Backend authentication and security: Passlib, bcrypt - password hashing, 
-cryptography.Fernet - authenticated symmetric encryption 
+🔐 Backend security: cryptography.Fernet, SHA-256 
 
-📖 Currently I continue learning to develop high performance back-end systems with SQLAlchemy ORM, FastAPI, Passlib, bcrypt, cryptography.Fernet and create interactive 2D games with PyGame. 
+
+📖 Currently I continue learning to develop high performance back-end systems with SQLAlchemy ORM, FastAPI, cryptography.Fernet and create interactive 2D games with PyGame. 
 🛰️ I developed and managed a workplace data management and task tracking system with SQLAlchemy and Flask by practically applying core object oriented programming fundamentals such as classes, attributes and methods in scalable backend systems development to ensure structured and maintainable code. 
 🔭 Moreover I created space shooter prototype with PyGame by implementing OOP fundamentals, event-driven-programming and game loop architecture to ensure smooth application runtime. 
 👨‍💻 Currently I develop a high-performance, database-integrated online shopping app with FastAPI, item stock data management system with SQLAlchemy ORM, secure user login form with Passlib, bcrypt, sensitive bank card information encryption with cryptography.Fernet to expand asynchronous programming, secure login credentials management and authenticated symmetric encryption knowledge in modern backend development.
