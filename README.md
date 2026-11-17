@@ -8,7 +8,7 @@ Here is my brief tech stack
 🗄️ ⚙️ High performance database-integrated web app development: FastAPI, SQLAlchemy ORM
 🔐 Backend security: cryptography.Fernet, SHA-256 
 
-🚀 And currently I'm looking for any junior Python Developer, junior Python Back-end Developer, junior Software Developer and junior Database Developer role based on my knowledge and tech stack that will help me to grow as a skilled IT specialist.
+🚀 And currently I'm looking for any junior Python Back-end Developer, junior Software Developer and junior Database Developer role based on my Python programming knowledge and practical coding experience that will help me to grow as a skilled IT specialist.
 
 
 <!--
