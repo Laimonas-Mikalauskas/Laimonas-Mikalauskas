@@ -1,4 +1,4 @@
-Hello 👋 I am Junior Python Developer with solid Python and SQL technical background. I specialise in database development data management and security, lightweight web app development and interactive 2D game development. Recently I started to expand asynchronous programming and authenticated symmetric encryption knowledge to deliver scalable and secure modern backend solutions.
+Hello 👋 I am a Junior Python Developer with solid Python and SQL technical background. I specialise in database development, backend security, lightweight web app and interactive 2D game development. Recently I started to expand my asynchronous programming and authenticated symmetric encryption knowledge to deliver scalable and secure modern backend solutions.
 
 Here is my brief tech stack
 
